@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasal\\source\\repos\\1.1_my_first_code_c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7311E6-DD21-4CA4-97D1-3CA3A6928890}|1.1_my_first_code_c.vcxproj|C:\\Users\\sasal\\source\\repos\\1.1_my_first_code_c\\1.1_my_first_code_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA7311E6-DD21-4CA4-97D1-3CA3A6928890}|1.1_my_first_code_c.vcxproj|solutionrelative:1.1_my_first_code_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.1_my_first_code_c.c",
+              "DocumentMoniker": "C:\\Users\\sasal\\source\\repos\\1.1_my_first_code_c\\1.1_my_first_code_c.c",
+              "RelativeDocumentMoniker": "1.1_my_first_code_c.c",
+              "ToolTip": "C:\\Users\\sasal\\source\\repos\\1.1_my_first_code_c\\1.1_my_first_code_c.c",
+              "RelativeToolTip": "1.1_my_first_code_c.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-20T17:47:02.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
